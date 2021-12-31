@@ -1,0 +1,14 @@
+{
+  "controller": {
+    "max_browser": 2
+  },
+  "generator": {
+    "min_type_delay": 100,
+    "max_type_delay": 200,
+    "min_submit_delay": 1000,
+    "max_submit_delay": 2000
+  },
+  "notification": {
+    "discord": ""
+  }
+}
