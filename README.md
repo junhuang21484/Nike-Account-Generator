@@ -5,9 +5,6 @@ and many features might not get implemented or heavily tested. This
 project currently on create account but will not verify (phone #) for
 you, however this features is looking to be added in the future.
 
-**Multi browser are currently not supported because of some logic
-issue it creates.**
-
 
 I have another version written in selenium with all the todo list features
 supported. I will implement those features into this project once i got time.
@@ -15,11 +12,9 @@ supported. I will implement those features into this project once i got time.
 
 
 ## Setting
-    Everything in the `setting.json` file right not can be edited and
-    configured to your own need.
+Everything in the `setting.json` file right not can be edited and
+configured to your own need.
 
-#### Controller Section:
-    "max_browser": The amount of browser that can be run at once
 #### Generator Section:
     "min_type_delay": minimum wait time when typing each character (ms),
     "max_type_delay": maximum wait time when typing each character (ms),
@@ -38,4 +33,4 @@ supported. I will implement those features into this project once i got time.
 * Notification support 
   * Discord webhook
 * Better documentation
-* Finish up multi browser process
+* ~~Finish up multi browser process~~

@@ -1,7 +1,4 @@
 {
-  "controller": {
-    "max_browser": 2
-  },
   "generator": {
     "min_type_delay": 100,
     "max_type_delay": 200,
